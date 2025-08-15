@@ -47,6 +47,6 @@
     npm run dev
     ```
 
-4. **Access SwaggerUI**
+4. **Access Frontend**
 
-    Open [localhost:3000](https://localhost:3000)
+    Open [localhost:3000](http://localhost:3000)
